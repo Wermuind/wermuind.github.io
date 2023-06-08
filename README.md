@@ -19,5 +19,5 @@ wermuind.github.io/
 │
 ├─ index.html
 ├─ favicon.ico
-└─ LICENSE
+└─ LICENSE.txt
 ```
