@@ -1,0 +1,14 @@
+* text=auto
+
+# text
+*.html text eol=lf
+*.css  text eol=lf
+*.js   text eol=lf
+*.ts   text eol=lf
+*.json text eol=lf
+*.svg  text eol=lf
+
+# binary
+*.jpg -text
+*.png -text
+*.ico -text
