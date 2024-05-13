@@ -2,6 +2,8 @@
 
 ```text
 wermuind.github.io/
+├─ notes/
+│
 ├─ assets/
 │  ├─ article-[hash:8].js
 │  └─ article-[hash:8].css
