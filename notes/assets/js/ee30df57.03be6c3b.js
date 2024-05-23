@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[1321],{4659:e=>{e.exports=JSON.parse('{"title":"\u041e\u0431\u0449\u0435\u0435","slug":"/category/\u043e\u0431\u0449\u0435\u0435","permalink":"/notes/category/\u043e\u0431\u0449\u0435\u0435","navigation":{"next":{"title":"CLI","permalink":"/notes/common/cli"}}}')}}]);
